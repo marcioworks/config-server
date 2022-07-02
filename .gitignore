@@ -4,10 +4,10 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 application.yml
-!**/src/main/resources/config/application-prod.yml
-!**/src/main/resources/config/application-dev.yml
-!**/src/main/resources/config/application-perf.yml
-!**/src/main/resources/config/application-qa.yml
+application-prod.yml
+application-dev.yml
+application-perf.yml
+application-qa.yml
 
 ### STS ###
 .apt_generated
